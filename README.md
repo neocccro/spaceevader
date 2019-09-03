@@ -11,4 +11,4 @@ Controls: WASD or arrow keys to move.
 
 [Playable game](http://coenvandiepen.com/X-D_Minesweeper/)
 
-![img](http://coenvandiepen.com/img/spaceevader_banner.PNG)
+[![img](http://coenvandiepen.com/img/spaceevader_banner.PNG)](http://coenvandiepen.com/X-D_Minesweeper/)

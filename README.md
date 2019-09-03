@@ -1,4 +1,3 @@
-![img](http://coenvandiepen.com/img/spaceevader_banner.PNG)
 
 # spaceevader
 
@@ -11,3 +10,5 @@ Description: The Static Class [Arc](https://github.com/neocccro/spaceevader/blob
 Controls: WASD or arrow keys to move.
 
 [Playable game](http://coenvandiepen.com/X-D_Minesweeper/)
+
+![img](http://coenvandiepen.com/img/spaceevader_banner.PNG)
